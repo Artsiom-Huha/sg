@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Pacifico-Regular;
+    src: url("Pacifico-Regular.ttf");
+}
+@font-face {
+    font-family: MarckScript-Regular;
+    src: url("MarckScript-Regular.ttf");
+}
+.col-1 {
+    font-family: Pacifico-Regular;
+}
+.col-2 {
+    font-family: MarckScript-Regular;
+}
